@@ -1,7 +1,0 @@
-#
-#spring:
-#  data:
-#    mongodb:
-#      database: User
-#      host: mongo-j-cont
-#      port: 27017
